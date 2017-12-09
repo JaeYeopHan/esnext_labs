@@ -4,15 +4,17 @@ This is a repository for experimenting with the ECMAScript standard in the curre
 #### [tc39/proposal](https://github.com/tc39/proposals)
 
 </br>
+
 ## Table of contents
-* [Usage](#usage)
-  * [Decorator]()
+* [Archives](#Archives)
 * [Development Installation](#development-installation)
 * [Bug Report](#bug-report)
 * [Contribute](#contribute)
 
+</br>
 
-## Usage
+## Archives
+### Decorator
 
 </br>
 

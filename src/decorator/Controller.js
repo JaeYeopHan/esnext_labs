@@ -1,4 +1,5 @@
 import Person from "./Person";
+import Pet from "./Pet";
 
 class Controller {
 	constructor() {
@@ -6,9 +7,11 @@ class Controller {
 	}
 
 	init() {
-		const p = new Person();
+		// const p = new Person();
+		// const pet = new Pet();
+		// pet.bark();
 
-		p.setName("jbee", "han").sayName().setName("jaeyeop", "han").sayName();
+		// p.setName("jbee", "han").sayName().setName("jaeyeop", "han").sayName();
 	}
 }
 
