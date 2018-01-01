@@ -7,11 +7,16 @@ class Controller {
 	}
 
 	init() {
-		// const p = new Person();
-		// const pet = new Pet();
-		// pet.bark();
+		console.log(this);
+		const p = new Person();
+		const pet = new Pet();
 
-		// p.setName("jbee", "han").sayName().setName("jaeyeop", "han").sayName();
+		pet.bark();
+
+		p.setName("jbee", "han")
+			.sayName()
+			.setName("jaeyeop", "han")
+			.sayName();
 	}
 }
 
